@@ -1,4 +1,3 @@
-alpine
 zhayujie/chatgpt-on-wechat
 andywuwu/coze2openai:latest
 coze2openai
